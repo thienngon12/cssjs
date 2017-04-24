@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://cungcapcaonammen.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-k2oml2lGbew/WP3u3bfAvAI/AAAAAAAAACI/5gewcUSlu1Ike7-w5P6ZgNKHtqSOhKj9wCLcB/s1600/1753.jpg' width='500px'/><br/>nơi để bạn tin cậy</a>. GIÁ CẢ TỐT NHẤT THỊ TRƯỜNG. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://cungcapcaonammen.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-k2oml2lGbew/WP3u3bfAvAI/AAAAAAAAACI/5gewcUSlu1Ike7-w5P6ZgNKHtqSOhKj9wCLcB/s1600/1753.jpg' width='500px'/><br/>0983371451</a>. GIÁ CẢ TỐT NHẤT THỊ TRƯỜNG. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
